@@ -1,0 +1,11 @@
+#+NAME: Day 1
+
+* DONE Exercise set 1: Pointers [3/3]
+- [X] Ex 1.1: Swap 2 numbers
+- [X] Ex 1.2: Array reversal (No [] allowed)
+- [X] Ex 1.3: Find maximum number
+
+* DONE Exercise set 2: Dynamic Memory [3/3]
+- [X] Ex 2.1: Dynamic array
+- [X] Ex 2.2: Resize an array
+- [X] Ex 2.3: String copy using *malloc()*
